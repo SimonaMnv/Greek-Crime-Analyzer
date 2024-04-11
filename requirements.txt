@@ -70,7 +70,7 @@ future==0.18.2
 gensim==3.8.3
 greek-stemmer==0.1.1
 hyperlink==20.0.1
-idna==2.10
+idna==3.7
 importlib-metadata==3.3.0
 incremental==17.5.0
 inflection==0.5.1
