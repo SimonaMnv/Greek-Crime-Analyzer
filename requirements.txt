@@ -150,7 +150,7 @@ ruamel.yaml.clib==0.2.2
 sacremoses==0.0.43
 scikit-learn==0.24.0
 scikitcrf-ner==3.2
-scipy==1.6.0
+scipy==1.11.1
 Scrapy==2.4.1
 scrapy-djangoitem==1.1.1
 sentencepiece==0.1.91
