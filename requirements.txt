@@ -161,7 +161,7 @@ simplejson==3.17.2
 six==1.15.0
 sklearn-crfsuite==0.3.6
 smart-open==4.1.0
-social-auth-app-django==4.0.0
+social-auth-app-django==5.4.1
 social-auth-core==4.0.2
 spacy==2.3.5
 spacy-lookups-data==0.3.2
