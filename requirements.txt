@@ -175,7 +175,7 @@ threadpoolctl==2.1.0
 tokenizers==0.9.3
 toml==0.10.2
 torch==1.7.1
-tqdm==4.55.1
+tqdm==4.66.3
 traitlets==5.0.5
 trankit==0.3.4
 Twisted==20.3.0
